@@ -1,4 +1,4 @@
-# Weather Application - Containerization and Container Orchestration
+# Containerized Microservices Weather App
 
 ## Project Overview
 
