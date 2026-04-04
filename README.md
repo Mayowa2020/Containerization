@@ -1,8 +1,8 @@
-# Containerized Microservices Weather App
+# Containerised Microservices Weather App
 
 ## Project Overview
 
-This project involves developing a microservices-based weather application. The implementation includes creating two microservices: one for fetching weather data and another for displaying it. The primary objectives are to containerize these microservices using Docker, deploy them to a Kubernetes cluster, and access them through Nginx.
+This project involves developing a microservices-based weather application. The implementation includes creating two microservices: one for fetching weather data and another for displaying it. The primary objectives are to containerise these microservices using Docker, deploy them to a Kubernetes cluster, and access them through Nginx.
 
 ## Table of Contents
 
